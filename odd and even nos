@@ -1,0 +1,23 @@
+input: for odd nos
+def odd_nos():
+  for i in range (1,10,2):
+      print(i)
+ouput:
+1
+3
+5
+7
+9
+
+input:for even number
+def even_nos():
+  for i in range (2,10,1):
+      print(i)
+ ouput:
+ 2
+ 4
+ 6
+ 8
+ 
+      
+
